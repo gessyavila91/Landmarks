@@ -32,8 +32,8 @@
 		48FC34AC2CC1F5760039FCA7 = {
 			isa = PBXGroup;
 			children = (
-				48FC34B72CC1F5760039FCA7 /* Landmarks */,
 				48FC34B62CC1F5760039FCA7 /* Products */,
+				48FC34B72CC1F5760039FCA7 /* Landmarks */,
 			);
 			sourceTree = "<group>";
 		};
